@@ -52,7 +52,7 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-*	Java
+*	Java/Java Spring boot
 *	Android Studio
 *	Vysor
 
