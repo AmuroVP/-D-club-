@@ -54,7 +54,11 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-*	Java/Java Spring boot
+*	Java/Java Spring boot(MySql)
+    Будет несколько разных БД:
+      -для аккаунтов
+      -для партий
+      -для чата
 *	Android Studio
 *	Vysor
 
